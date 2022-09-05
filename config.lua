@@ -1,3 +1,8 @@
+---------------------------------------------
+-- Nosso Discord
+-- https://discord.gg/UajwX4a
+---------------------------------------------
+
 local config = {}
 
 -- Coordenada Para Inicar o Serviçp
